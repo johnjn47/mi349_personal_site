@@ -1,0 +1,29 @@
+body{
+    background-color: #cccccc;
+    font-family: Helvetica, sans-serif;
+    color: #222222;
+}
+
+.heading{
+    text-align: center;
+    background-color: cornflowerblue;
+}
+
+img{
+    width: 100%;
+}
+.container{
+    margin: 0 auto;
+    width:200px;
+}
+#intro{
+    width:800px;
+    margin: 0 auto;
+    text-align: justify;
+    padding-top: 10px;
+}
+
+
+
+
+
